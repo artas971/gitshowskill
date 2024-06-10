@@ -1,7 +1,5 @@
 <?php
-
 namespace App\Service;
-
 use Doctrine\ORM\EntityManagerInterface;
 use Symfony\Component\Security\Core\Security;
 use App\Entity\User;
